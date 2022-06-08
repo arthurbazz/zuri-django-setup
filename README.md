@@ -1,4 +1,4 @@
-# zuri-django-setup
+# Zuri-django-setup
 This repository is a beginner level, setup of a Django project.  
 
 ## Description
